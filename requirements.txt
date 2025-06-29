@@ -1,0 +1,10 @@
+langchain==0.3.21
+langchain-openai==0.3.27
+langsmith==0.3.18
+crewai
+faiss-cpu
+streamlit
+sentence-transformers
+pypdf
+numpy
+python-dotenv

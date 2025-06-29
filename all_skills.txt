@@ -1,0 +1,137 @@
+
+C/C++
+PyTorch
+AWS
+AWS DynamoDB
+Android
+Android Studio
+Angular
+AngularJS
+Ansys/Fluent
+AutoCAD
+AutoCAD Fusion 360
+AutoCAD Fusion 360 & Mech.
+AutoCAD Inventor
+AutoCAD mechanical
+AutoCad
+AutoDesk Inventor and AutoCad Fusion
+Autodesk Fusion 360
+Autodesk Inventor
+Bash
+Bootstrap(Front-end development)
+C ++
+C#
+C++
+C/C++
+C/C++
+Python
+Web Development
+Linux
+git
+MS-Office
+LaTeX
+CO395
+CSS
+CSS3
+MySQL
+Flask
+AWS
+GIT
+GNU Octave
+GNUPlot
+Gazebo
+GeoStudio
+Git
+GitHub
+Golang
+Google AutoML
+Google Sheets
+HSPICE
+HTML
+HTML/CSS.
+HTML5
+Haskell
+Intellij
+Inventor
+Java
+JavaScript
+Javascript
+Keras
+LaTex
+Lab Streaming Layer
+​C
+NLTK
+MS Excel
+Spacy
+Keras
+Scikit-learn
+Beautiful Soup
+XGBoost
+Tensorflow
+Linux
+MATLAB
+Windows
+MS Excel
+MS Office
+MS-Office
+MacOS
+Matlab
+Microcap
+Autodesk Inventor
+Fusion 360
+Ms Word
+MySQL
+NLTK
+Node
+Node JS
+Node.js
+Numpy
+GNU Octave
+Unix/Linux
+Git
+Oz
+PHP
+PROGRAMMING
+PX4 Autopilot
+Pandas
+Php
+Power BI
+Microcap
+Octave
+MobaXterm
+Arduino
+R
+Stata
+MS Excel
+MS Office
+Autodesk Fusion
+AutoCAD
+Pytorch
+ROS
+React
+Robot Operating System(ROS)
+SAP2000
+SET                                                                                                                                                                  #online courses
+SPICE
+SQLite
+Sage
+Scikit Learn
+Shell Scripting
+Simulink
+GNU Octave
+Robot Operating System(ROS)
+Visual Studio
+Solidworks
+Spectre
+TANNER
+Tableau
+TensorFlow
+Arduino IDE
+Verilog
+Visual Studio
+HTML5
+Windows
+Xamarin
+Xming
+ZHCET
+
