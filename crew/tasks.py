@@ -14,13 +14,12 @@ extract_resume_task = Task(
 
 # Task 2: Match the resume against company folders to find similar successful resumes
 match_resume_task = Task(
-    description=(
-        "Compare this resume: {resume_text} with resumes from candidates hired by the target companies: {target_companies}.\n"
-        "Identify and return the most similar ones."
-    ),
-    expected_output="A list of similar resumes and a short justification for the match.",
+    description="Use the collaborative filtering tool to find resumes most similar to the user's resume.",
+    expected_output="A list of real resumes similar to the user's resume and a short justification for each match.",
     agent=None
+    # input_keys=["resume_text", "target_companies"]
 )
+
 
 # Task 3: Provide improvement suggestions based on matched resumes
 coach_resume_task = Task(
@@ -29,5 +28,6 @@ coach_resume_task = Task(
         "suggest actionable improvements to increase their selection chances."
     ),
     expected_output="Detailed suggestions to improve the user's resume for better chances at their target companies.",
-    agent=None
-)
+    agent=None,
+    inputs=["resume_text", "matched_resumes"]
+    )
