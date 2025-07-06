@@ -7,7 +7,7 @@ from langchain.tools import Tool
 
 extractor_llm = get_llm(model="gpt-3.5-turbo")  # lightweight, fast
 matcher_llm = get_llm(model="gpt-4o")           # for similarity + matching
-coach_llm = get_llm(model="gpt-3.5-turbo")      # suggestions can be lighter too
+coach_llm = get_llm(model="gpt-4o")      # suggestions can be lighter too
 match_resumes_tool = MatchResumesTool()
 
 doc_extractor_agent = Agent(
