@@ -1,10 +1,26 @@
-langchain==0.3.21
-langchain-openai==0.3.27
-langsmith==0.3.18
-crewai
-faiss-cpu
-streamlit
-sentence-transformers
-pypdf
-numpy
-python-dotenv
+# Core LLM & Agents
+crewai==0.134.0
+openai==1.92.2
+langchain==0.3.26
+pydantic==2.11.7
+
+# Embeddings and Semantic Search
+sentence-transformers==4.1.0
+faiss-cpu==1.11.0
+
+# Backend + Database
+pandas==2.3.0
+numpy==2.3.1
+scikit-learn==1.7.0
+
+# Frontend (Streamlit)
+streamlit==1.46.1
+
+# Optional - Debugging, Display
+tqdm==4.67.1
+rich==13.9.4
+
+# Avoid tokenizer issues (HuggingFace)
+transformers==4.53.0
+tokenizers==0.21.2
+
